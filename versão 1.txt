@@ -1,3 +1,5 @@
-novo arquivo versão1
+novo arquivo versão1 modificado.
 
 Arquivo editado pelo github...testando.
+
+versão 2
